@@ -62,7 +62,7 @@ Documentation and hardware specifications intended to encourage community collab
 
 🌐 Website: https://arudalabs.com
 
-📧 Contact: hello@arudalabs.com
+📧 Contact: contact@arudalabs.com
 
 📖 Documentation: https://github.com/arudalabs
 
