@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arudalabs/website/main/public/images/aruda-logo.png" width="140" alt="Aruda Labs Logo">
+  <img  src="./aruda-logo.png" width="140" alt="Aruda Labs Logo">
 </p>
 
 <h1 align="center">Aruda Labs</h1>
